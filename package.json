@@ -1,0 +1,23 @@
+{
+  "name": "electron-starter",
+  "version": "1.0.0",
+  "description": "Starter project for electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froghramar/electron-starter.git"
+  },
+  "keywords": [
+    "electron",
+    "starter"
+  ],
+  "author": "Feroz Ahmmed (froghramar)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/froghramar/electron-starter/issues"
+  },
+  "homepage": "https://github.com/froghramar/electron-starter#readme"
+}
